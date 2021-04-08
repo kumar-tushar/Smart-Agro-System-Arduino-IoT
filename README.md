@@ -9,7 +9,8 @@ The data present on the cloud is fetched by the remote user using the ThingSpeak
 
 The fetched data is analyzed and then the necessary decisions are taken such as commanding remote actuators (electrical Pump and electrical Lamp) which are installed in the agricultural land.
 
-<p> 
-<img src=“Block_Diagram.jpg” alt="image">
-</p>
+
+<div align="center">
+<img src="Block_Diagram.jpg" align="center" height="75%" width="75%" />
+</div>
 
