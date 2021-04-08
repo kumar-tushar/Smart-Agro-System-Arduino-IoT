@@ -13,7 +13,7 @@
 
 
 
-<div align="center" style="padding-top: 10px">
+<div align="center" style="padding-top: 100px">
 <img src="Block_Diagram.jpg" align="center" />
 </div>
 
