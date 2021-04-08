@@ -11,6 +11,6 @@ The fetched data is analyzed and then the necessary decisions are taken such as 
 
 
 <div align="center">
-<img src="Block_Diagram.jpg" align="center" height="75%" width="75%" />
+<img src="Block_Diagram.jpg" align="center" />
 </div>
 
