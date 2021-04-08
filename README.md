@@ -1,6 +1,6 @@
 # Smart Agro System
 
-#
+
 * "Smart Agro System" is an IoT and Arduino based project that can be used in the agriculture sector to enhance crop productivity in a natural way.
 
 * The system consists of sensors (temperature and humidity sensors both for air and soil separately, luminosity sensor) which are installed in the agricultural land.
@@ -11,7 +11,6 @@
 
 * The fetched data is analyzed and then the necessary decisions are taken such as commanding remote actuators (electrical Pump and electrical Lamp) which are installed in the agricultural land.
 
-#
 
 
 <div align="center">
