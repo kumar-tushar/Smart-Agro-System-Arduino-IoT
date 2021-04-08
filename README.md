@@ -10,6 +10,6 @@ The data present on the cloud is fetched by the remote user using the ThingSpeak
 The fetched data is analyzed and then the necessary decisions are taken such as commanding remote actuators (electrical Pump and electrical Lamp) which are installed in the agricultural land.
 
 <p> 
-<img src=“Block_Diagram.jpg”>
+<img src=“https://github.com/kumar-tushar/Smart-Agro-System-Arduino-IoT/blob/main/Block_Diagram.jpg”>
 </p>
 
