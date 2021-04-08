@@ -11,9 +11,9 @@
 
 * The fetched data is analyzed and then the necessary decisions are taken such as commanding remote actuators (electrical Pump and electrical Lamp) which are installed in the agricultural land.
 
+#
 
-
-<div align="center" style="padding-top: 100px">
+<div align="center">
 <img src="Block_Diagram.jpg" align="center" />
 </div>
 
